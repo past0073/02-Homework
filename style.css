@@ -2,16 +2,11 @@ body, html {
     height: 100%;
   }
   .bg {
-    /* The image used */
     background-image: url("Assets/Images/reeds.JPG");
-  
-    /* Full height */
-    height: 100%;
- 
-  
-    /* Center and scale the image nicely */
+    height: 170%;
     background-position: center;
     background-repeat: repeat-y;
+    background-repeat: repeat-x;
     background-size: cover;
   }
 
@@ -22,15 +17,31 @@ body, html {
 .navbar-brand {
       font-weight: bold;
       font-size: 25px;
-      background-color: #a0d81ea4
+      background-color: #5dee0afa
   }
 .btn {
-  background-color: #a0d81ea4;
+  background-color: #5dee0afa;
   outline: 2px solid grey;
 }
 
 H1 {
-  color: #a0d81edc;
-  text-shadow: rgb(100, 100, 100) 0px 0px 1px;
-  font-weight: bold;
+  color: #5dee0afa;
+  text-shadow: rgb(32, 32, 32) 1px 1px 1px;
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+#AmyP {
+  height: 250px;
+  border: 10px solid grey;
+  margin: 0px 10px;
+}
+
+p {
+  padding: 0px 5px;
+}
+
+.img-thumbnail {
+  height: 100%;
+  width: 100%;
 }
