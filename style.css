@@ -1,3 +1,4 @@
+/* This is formatting for the background image*/
 body, html {
     height: 100%;
   }
@@ -10,37 +11,46 @@ body, html {
     background-size: cover;
   }
 
+ /*This is formatting the Navbar.*/ 
+ .navbar-brand {
+  font-weight: bold;
+  font-size: 25px;
+  background-color: #5dee0afa
+}
+
+/*This is formatting each page's container header.*/
+H1 {
+color: #5dee0afa;
+text-shadow: rgb(32, 32, 32) 1px 1px 1px;
+font-weight: bolder;
+font-size: 50px;
+}
+
+  /*This section is formatting the form on the Contact page.*/
   #message {
       height: 100px;
   }
 
-.navbar-brand {
-      font-weight: bold;
-      font-size: 25px;
-      background-color: #5dee0afa
+  .btn {
+    background-color: #5dee0afa;
   }
-.btn {
-  background-color: #5dee0afa;
-}
 
-H1 {
-  color: #5dee0afa;
-  text-shadow: rgb(32, 32, 32) 1px 1px 1px;
-  font-weight: bolder;
-  font-size: 50px;
-}
-
+/* This is formatting for the image on the About Me page*/
 #AmyP {
   height: 250px;
   border: 10px solid grey;
   margin: 0px 10px;
 }
 
-p {
-  padding: 0px 5px;
-}
-
+/*This is formatting for the images on the Portfolio page.*/
 .img-thumbnail {
   height: 100%;
   width: 100%;
 }
+
+/*This is formatting the footer.*/
+p {
+  padding: 0px 5px;
+}
+
+
