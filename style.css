@@ -24,3 +24,13 @@ body, html {
       font-size: 25px;
       background-color: #a0d81ea4
   }
+.btn {
+  background-color: #a0d81ea4;
+  outline: 2px solid grey;
+}
+
+H1 {
+  color: #a0d81edc;
+  text-shadow: rgb(100, 100, 100) 0px 0px 1px;
+  font-weight: bold;
+}
