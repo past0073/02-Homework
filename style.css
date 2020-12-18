@@ -2,20 +2,19 @@
 body, html {
     height: 100%;
   }
+
   .bg {
     background-image: url("Assets/Images/reeds.JPG");
-    height: 170%;
+    height: 240%;
     background-position: center;
-    background-repeat: repeat-y;
-    background-repeat: repeat-x;
-    background-size: cover;
   }
 
  /*This is formatting the Navbar.*/ 
  .navbar-brand {
   font-weight: bold;
   font-size: 25px;
-  background-color: #5dee0afa
+  background-color: #5dee0afa;
+  font-family: 'Happy Monkey', cursive;
 }
 
 /*This is formatting each page's container header.*/
@@ -24,6 +23,7 @@ color: #5dee0afa;
 text-shadow: rgb(32, 32, 32) 1px 1px 1px;
 font-weight: bolder;
 font-size: 50px;
+font-family: 'Happy Monkey', cursive;
 }
 
   /*This section is formatting the form on the Contact page.*/
@@ -39,7 +39,7 @@ font-size: 50px;
 #AmyP {
   height: 250px;
   border: 10px solid grey;
-  margin: 0px 10px;
+  margin: 5px 20px 5px 5px;
 }
 
 /*This is formatting for the images on the Portfolio page.*/
@@ -48,9 +48,8 @@ font-size: 50px;
   width: 100%;
 }
 
-/*This is formatting the footer.*/
-p {
-  padding: 0px 5px;
+/*This is formaatting for the footer*/
+footer p {
+  font-weight: bold; 
+  padding: 7px 0 0 0;
 }
-
-
