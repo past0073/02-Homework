@@ -5,7 +5,7 @@ body, html {
 
   .bg {
     background-image: url("Assets/Images/reeds.JPG");
-    height: 240%;
+    height: 1500px;
     background-position: center;
   }
 
@@ -37,9 +37,13 @@ font-family: 'Happy Monkey', cursive;
 
 /* This is formatting for the image on the About Me page*/
 #AmyP {
-  height: 250px;
+  height: 220px;
   border: 10px solid grey;
-  margin: 5px 20px 5px 5px;
+  margin: 5px 20px 5px 20px;
+}
+
+.card-text {
+  font-size: 16px;
 }
 
 /*This is formatting for the images on the Portfolio page.*/
@@ -53,4 +57,3 @@ footer p {
   font-weight: bold; 
   padding: 7px 0 0 0;
 }
-
