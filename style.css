@@ -17,6 +17,18 @@ body, html {
   font-family: 'Happy Monkey', cursive;
 }
 
+#topFooter {
+  background-color: rgb(61, 61, 61); 
+  width: auto; 
+  height: 10px;
+}
+
+#bottomFooter {
+  background-color: #5dee0afa; 
+  width: auto; 
+  height: 50px;
+}
+
 /*This is formatting each page's container header.*/
 H1 {
 color: #5dee0afa;
@@ -35,16 +47,50 @@ font-family: 'Happy Monkey', cursive;
     background-color: #5dee0afa;
   }
 
+  #contactMe {
+    margin: 5px;
+  }
+
+  #userContact {
+    margin: 5px;
+  }
+
+  h2 {
+    color: #5dee0afa;
+    text-shadow: rgb(32, 32, 32) 1px 1px 1px;
+    font-weight: bolder;
+    font-size: 35px;
+    font-family: 'Happy Monkey', cursive;
+    }
+
 /* This is formatting for the image on the About Me page*/
 #AmyP {
-  height: 220px;
-  border: 10px solid grey;
-  margin: 5px 20px 5px 20px;
+  height: 230px;
+  box-shadow: 10px 10px 5px grey;
+  margin: 5px 30px 10px 10px;
 }
 
 .card-text {
   font-size: 16px;
 }
+
+#linkedIn {
+font-size: 50px;
+float: left;
+}
+
+#github {
+  font-size: 50px;
+  padding-left: 5%;
+  float: left;
+  }
+
+#resume {
+    font-size: 30px;
+    text-decoration: none;
+    padding-left: 5px;
+    float: right;
+    }
 
 /*This is formatting for the images on the Portfolio page.*/
 .img-thumbnail {
