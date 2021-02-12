@@ -7,6 +7,8 @@ I am Amy Pastorius, a full stack web development student, and this is my profess
 * HTML
 * CSS
 * Bootstrap
+* javaScript
+* jQuery
 
 Link to the live version: https://past0073.github.io/02-Homework/
 
