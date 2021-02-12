@@ -20,6 +20,11 @@ Screenshots:
 
 ![image](https://user-images.githubusercontent.com/74335621/107728279-3fc8c480-6cb3-11eb-80b8-68667a80e60b.png)
 
+### Contact Me
+
+Email: past0073@umn.edu
+LinkedIn: https://www.linkedin.com/in/amy-pastorius-609324157/
+
 ### License
 
 The MIT License (MIT)
