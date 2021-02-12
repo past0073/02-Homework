@@ -1,28 +1,31 @@
-# 02-Homework
-This assignment relates to CSS and Bootstrap.
+# Professional Portfolio
 
-This repository is all about me and my interests, and it's also the perfect summation of my coding skills so far. The combination of having a template supplied and also getting to create our own designs was a lot of fun! And who doesn't love to talk about themselves for a while? 
+I am Amy Pastorius, a full stack web development student, and this is my professional portfolio. Within this project you can find a link to my LinkedIn profile, and a downloadable PDF of my resume. I'm always interested in hearing from former colleagues, managers, or other folks in related industries so feel free to contact me if you'd like to connect. 
 
-Through this assignment I learned a lot about the magic and beauty of Bootstrap, but my GoogleFu skills were seriously tested. The Portfolio page, specifically, was really tricky for me to figure out. I spent quite a bit of time reading through Bootstrap's website and my own code to try and identify what errors I had made. Ultimately, my trial and error paid off and I have a working webpage that I can be proud of.
+### Technologies Used
+
+* HTML
+* CSS
+* Bootstrap
 
 Link to the live version: https://past0073.github.io/02-Homework/
 
 Screenshots:
 
-500-index: ![image](https://user-images.githubusercontent.com/74335621/102700773-19882a80-4216-11eb-8efa-e8dd15ac2323.png)
+![image](https://user-images.githubusercontent.com/74335621/107728208-10b25300-6cb3-11eb-8810-a4b2e26cb5f3.png)
 
-768-index: ![image](https://user-images.githubusercontent.com/74335621/102700819-65d36a80-4216-11eb-9aee-7854dbfd0da1.png)
+![image](https://user-images.githubusercontent.com/74335621/107728247-2b84c780-6cb3-11eb-9204-6a56adcc367d.png)
 
-992-index: ![image](https://user-images.githubusercontent.com/74335621/102700833-83a0cf80-4216-11eb-8fd9-b63189010d79.png)
+![image](https://user-images.githubusercontent.com/74335621/107728279-3fc8c480-6cb3-11eb-80b8-68667a80e60b.png)
 
-500-contact: ![image](https://user-images.githubusercontent.com/74335621/102700900-22c5c700-4217-11eb-94db-8a2b92531cc3.png)
+### License
 
-768-contact: ![image](https://user-images.githubusercontent.com/74335621/102700887-09247f80-4217-11eb-9a92-2d070120d7e5.png)
+The MIT License (MIT)
 
-992-contact: ![image](https://user-images.githubusercontent.com/74335621/102700854-b0ed7d80-4216-11eb-8e33-02ee10901108.png)
+Copyright (c) 2015 Chris Kibble
 
-500-portfolio: ![image](https://user-images.githubusercontent.com/74335621/102700912-3a04b480-4217-11eb-975e-b63452a8b19c.png)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-768-portfolio: ![image](https://user-images.githubusercontent.com/74335621/102700879-f447ec00-4216-11eb-9ca7-422e883e4810.png)
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-992-portfolio: ![image](https://user-images.githubusercontent.com/74335621/102700863-c8c50180-4216-11eb-87ad-876d7ddc0635.png)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
