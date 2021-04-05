@@ -5,8 +5,11 @@ body, html {
 
   .bg {
     background-image: url("Assets/Images/reeds.JPG");
-    height: 1500px;
+    height: auto;
+    background-attachment: fixed;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
  /*This is formatting the Navbar.*/ 
@@ -71,7 +74,7 @@ font-family: 'Happy Monkey', cursive;
 }
 
 .card-text {
-  font-size: 16px;
+  font-size: 22px;
 }
 
 #linkedIn {
@@ -115,4 +118,5 @@ footer p {
   text-align: center;
   font-weight: bold; 
   padding: 7px 0 0 0;
+  position: relative;
 }
