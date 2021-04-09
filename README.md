@@ -1,5 +1,7 @@
 # Professional Portfolio
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 I am Amy Pastorius, a full stack web development student, and this is my professional portfolio. Within this project you can find a link to my LinkedIn profile, a few examples of my deployed applications, and a downloadable PDF of my resume. I'm always interested in hearing from former colleagues, managers, or other folks in related industries so feel free to contact me if you'd like to connect. 
 
 ### Technologies Used
